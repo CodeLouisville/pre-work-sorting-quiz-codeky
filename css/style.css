@@ -111,6 +111,7 @@
     }
     .final-score {
       color: #00000099;
+      line-height: 1;
     }
     .summary {
       font-size: 1rem;
