@@ -1,2 +1,1 @@
-# pre-work-sorting-quiz
-# pre-work-sorting-quiz-codeky
+# Code Kentucky Pre-Work Sorting Quiz
